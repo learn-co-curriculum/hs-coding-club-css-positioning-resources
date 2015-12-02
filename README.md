@@ -9,3 +9,4 @@ Feel like you need more CSS positioning? Check out these great resources for som
 2. [Positioning Examples from MDN](https://developer.mozilla.org/samples/cssref/css-positioning.html)
 
 3. [Learn Layout](http://learnlayout.com/position.html)
+<a href='https://learn.co/lessons/hs-coding-club-css-positioning-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
